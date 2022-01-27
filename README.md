@@ -1,17 +1,13 @@
-# Notas
-Aplicacion de tareas dinamica
+# README
+Aplicacion de geolocalizacion
 
 ```
-Options:
-      Seleccione una opcion
+=========================
+Seleccione una opcion
 =========================
 
-? Que desea hacer?
-  1. Crear tarea
-  2. Listar tareas
-> 3. Listar tareas completadas
-  4. Listar tareas pendientes
-  5. Completar tarea(s)
-  6. Borrar tarea
+? Que desea hacer? (Use arrow keys)
+> 1. Buscar Ciudad
+  2. Historial
   0. Salir
   ```
