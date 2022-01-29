@@ -14,7 +14,7 @@ class Busquedas{
 
     get historialCapializado(){
         return this.historial.map( lugar =>{
-            let palabras = luagr.slpit(' ');
+            let palabras = lugar.slpit(' ');
             palabras = palabras.map(p => p[0].toUpperCase() + p.subsring(1) );
 
             return palabras.join(' ')
